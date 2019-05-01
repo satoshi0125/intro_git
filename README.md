@@ -10,4 +10,4 @@
 8. "git checkout branch_name"=>change or swich branch_name
 9. "git merge branch_name"=> connect two branches
 10. "git push"=>send localbranch to Github or bitbacket.etc...
-11. "git clone URL"
+11. "git clone [repositoryURL]  [directory]"=>copy All in the repository
