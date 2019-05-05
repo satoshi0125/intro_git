@@ -12,3 +12,4 @@
 10. "git push"=>send localbranch to Github or bitbacket.etc...
 11. "git clone [repositoryURL]  [directory]"=>copy All in the repository
 12. difference push and commit for git https://teratail.com/questions/79531
+13.
