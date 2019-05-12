@@ -1,4 +1,5 @@
 # contents
+git config --global
 
 1. this is git practice
 2. "git add"=>send staging area
